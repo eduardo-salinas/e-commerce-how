@@ -1,5 +1,5 @@
 <p align='left'>
-    <img src='https://github.com/eduardo-salinas/e-comerce-how/LOGO.png' </img>
+    <img src='./images/LOGO.png' </img>
 </p>
 
 # E-Commerce
@@ -21,11 +21,14 @@
 ## Previews 🍷
 
 <p align='left'>
-    <img src='https://github.com/eduardo-salinas/e-comerce-how/home.png' </img>
+    <img src='./images/home.png' </img>
 </p>
 <p align='left'>
-    <img src='https://github.com/WanCirone/eduardo-salinas/e-comerce-how/chekout.png' </img>
+    <img src='./images/catalogo.png' </img>
 </p>
 <p align='left'>
-    <img src='https://github.com/eduardo-salinas/e-comerce-how/admin.png' </img>
+    <img src='./images/chekout.png' </img>
+</p>
+<p align='left'>
+    <img src='./images/admin.png' </img>
 </p>
