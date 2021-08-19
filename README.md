@@ -5,6 +5,7 @@
 # E-Commerce
 - Proyecto Final realizado en equipo como instancia evaluativa en [Soy Henry](https://www.soyhenry.com/) 
 - Realizamos un e-commerce de venta de vinos, en el cual se pueden ver, buscar y filtrar vinos. Se pueden realizar compras tanto con mercadopago o tarjeta de credito, dejar review, ver detalles,etc. Y tambien como admin se pueden administrar tanto los productos, como los estados de las ordenes y los usuarios.
+- Desarrollado con metodología ágil SCRUM,con sprints de una semana y presentaciones a un ProductOwner perteneciente al staff.
 - [LINK](https://howclient.herokuapp.com/)
 
 ## Tecnologías utilizadas :computer: 
